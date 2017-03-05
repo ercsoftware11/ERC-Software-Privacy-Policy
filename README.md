@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to ERC Software App Privacy Policy Page.
 
-You can use the [editor on GitHub](https://github.com/ercsoftware11/ERCSoftwareHosting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy Policy
 
-### Markdown
+None of the apps built by ERC Software collect any personal information whatsoever when you are utilising the app. In accordance with Google's policy, since some of apps require permission to access 'Accounts' or other sensitive information, a privacy policy has been devised. The following apps require access to the following priviges;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Account Access
+- Material Wallpapers (in order to get your contacts so you can share the app with your friends)
 
-```markdown
-Syntax highlighted code block
+Sensitive Device Info
+- Device Info (in order to display to you information about your device)
 
-# Header 1
-## Header 2
-### Header 3
+All of this information is generated when you are using one of these above listed apps and simply displayed straight to the end user. None of the information displayed is sent to ERC Software, or recorded in anyway for any reason whatsoever!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ercsoftware11/ERCSoftwareHosting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having an issue with one of our apps, or have a concern about our simple privacy policy? Send us an email at ercsoftware11@gmail.com
